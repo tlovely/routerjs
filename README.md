@@ -1,7 +1,7 @@
 # routerjs
 A simple client side router loosely inspired by Python's Flask.
 
-Of course, very experimental at this stage.
+Of course, very experimental at this stage, including many breaking api changes.
 
 ## Basic Usage
 ```javascript
