@@ -1,6 +1,8 @@
 # routerjs
 A simple front end router loosely inspired by Python's Flask.
 
+Of course, very experimental as this stage.
+
 ## Basic Usage
 ```javascript
 
